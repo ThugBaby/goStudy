@@ -1,2 +1,2 @@
-# goStuidy
+# goStudy
 test1
